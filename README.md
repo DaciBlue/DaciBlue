@@ -7,7 +7,6 @@
 “Pedro, Pedro” es la canción del tierno mapache que baila
 
 ## Letra
-
 Passeggio tutta sola
 Per le strade
 Guardando attentamente
@@ -75,6 +74,10 @@ Pedro, Pedro, Pedro, Pedro, Pedro, Pe
 Praticamente il meglio di Santa Fe
 Pedro, Pedro, Pedro, Pedro, Pe
 Tornerò da te
+
+##Video
+
+https://www.youtube.com/watch?v=KT5HuZJm9kU
 
 ## Licencia
 Pedro
