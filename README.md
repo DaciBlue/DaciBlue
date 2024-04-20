@@ -1,26 +1,80 @@
-# Título del Proyecto
+# Meme pedro
 
-![Imagen de Portada](url_de_la_imagen)
+![Imagen de Portada](Pedro.jpg)
 
 ## Descripción
 
-Breve descripción del proyecto, objetivos y funcionalidades principales.
+“Pedro, Pedro” es la canción del tierno mapache que baila
 
-## Características
+## Letra
 
-- Característica 1
-- Característica 2
-- Característica 3
-
-  
-## Instalación
-Instrucciones para instalar y configurar el proyecto.
-
-## Uso
-Guía rápida sobre cómo utilizar el proyecto y ejemplos de código.
-
-## Contribución
-Información sobre cómo contribuir al proyecto, directrices para enviar pull requests y reportar issues.
+Passeggio tutta sola
+Per le strade
+Guardando attentamente
+I monumenti
+La classica straniera
+Con un'aria strana
+Che gira stanca
+Tutta la città
+A un certo punto
+Della passeggiata
+Mi chiama da una parte
+Un ragazzino
+Sembrava a prima vista
+Tanto per benino
+Si offre a far da guida
+Per la città
+Pedro, Pedro, Pedro, Pedro, Pe
+Praticamente il meglio
+Di Santa Fe
+Pedro, Pedro, Pedro, Pedro, Pe
+Fidati di me
+Altro che ragazzino
+Che per benino
+Sapeva molte cose
+Più di me
+Mi ha portato tante volte
+A veder le stelle
+Ma non ho visto niente
+Di Santa Fe
+Pedro, Pedro, Pedro, Pedro, Pedro, Pe
+Praticamente il meglio
+Di Santa Fe
+Pedro, Pedro, Pedro, Pedro, Pe
+Fidati di me
+Mi sono innamorata
+Seduta stante
+Di Pedro, Pedro, Pedro
+Di Santa Fe
+Mi ha sconvolto le vacanze
+Mi ha stregata
+Non faccio che pensare
+A Pedro Pe
+Pedro, Pedro, Pedro, Pedro, Pedro, Pe
+Travolta di passione a Santa Fe
+Pedro, Pedro, Pedro, Pedro, Pe
+Tornerò da te
+Come ballava bene sotto le stelle
+Praticamente il meglio di Santa Fe
+Le ragazze lo mangiavano
+Con lo sguardo
+Ma lui si concentrava solo con me
+Pedro, Pedro, Pedro, Pedro, Pedro, Pe
+Bellissima avventura di Santa Fe
+Pedro, Pedro, Pedro, Pedro, Pe
+Soli io e te
+Mi sono innamorata
+Seduta stante
+Di Pedro, Pedro, Pedro
+Di Santa Fe
+Mi ha sconvolto le vacanze
+Mi ha stregata
+Non faccio che pensare
+A Pedro Pe
+Pedro, Pedro, Pedro, Pedro, Pedro, Pe
+Praticamente il meglio di Santa Fe
+Pedro, Pedro, Pedro, Pedro, Pe
+Tornerò da te
 
 ## Licencia
-Licencia bajo la cual se distribuye el proyecto.
+Pedro
