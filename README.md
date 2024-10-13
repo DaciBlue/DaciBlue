@@ -11,9 +11,5 @@
 
  Maquinaria ataladradora que uso actualmente:
 
- [![My Skills](https://skillicons.dev/icons?i=eclipse,idea,vs,android)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=eclipse,idea,vscode,ubuntu,docker)](https://skillicons.dev)
 
-  
-
-## Licencia
-Pedro
